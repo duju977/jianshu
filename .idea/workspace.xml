@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dac7a93d-d9d2-4d2d-ba4d-67931bdf26d0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.eslintrc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jianshu.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/backpack.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/components/Footer.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layouts/default.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/layouts/error.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/nuxt.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/plugins/axios.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server/api/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server/api/users.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/server/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -240,12 +216,12 @@
       <updated>1516691597703</updated>
       <workItem from="1516691602547" duration="443000" />
       <workItem from="1516692073155" duration="3291000" />
-      <workItem from="1516696913549" duration="278000" />
+      <workItem from="1516696913549" duration="584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4012000" />
+    <option name="totallyTimeSpent" value="4318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
