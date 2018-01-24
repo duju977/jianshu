@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <nuxt/>
+    <div >
+        <nuxt/>
 
-  </div>
+    </div>
 </template>
 
 <script>
@@ -12,9 +12,9 @@
     Vue.use(BootstrapVue);
     import 'bootstrap/dist/css/bootstrap.css'
     import 'bootstrap-vue/dist/bootstrap-vue.css'
-export default {
+    export default {
 
-}
+    }
 </script>
 
 <style>
